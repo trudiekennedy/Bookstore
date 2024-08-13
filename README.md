@@ -18,4 +18,8 @@ A user can do the following:
 
 The search facility allows users to search by ID(key), Title, Author or Quantity.
 
+## Screenshots
 
+![SS1](https://github.com/user-attachments/assets/ffc913ab-9b08-486d-98b7-92802987bf28)
+![SS2](https://github.com/user-attachments/assets/f4e891f9-8b78-441d-8ad9-68acf1c5164a)
+![SS3](https://github.com/user-attachments/assets/f341b55b-1e3a-4ecb-9867-8d8ae7e353fc)
