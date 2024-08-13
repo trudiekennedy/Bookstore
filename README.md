@@ -9,7 +9,7 @@ To use the script, simply run it from the command line using the following comma
 
 `python bookstore.py`
 
-The script uses sqlite3 to create a database of books. 
+The script uses sqlite3 to create a database of books and then retrieve details about the books.
 A user can do the following:
 - Enter a book
 - Update a book
